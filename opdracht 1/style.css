@@ -1,0 +1,34 @@
+#box {
+    border: 2px solid black;
+    display: flex;
+    width: 400px;
+    height: 600px;
+    flex-direction: column;
+}
+#onder {
+    display: flex;
+    margin-left: 50%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+h1 {
+    display: flex;
+    margin-left: 30%;
+    color: green;
+}
+
+button {
+    width: 20%;
+    height: 5%;
+    display: flex;
+    margin-left: 70%;
+    margin-top: 10%;
+    border: 2px solid black;
+    background-color: green;
+}
+
